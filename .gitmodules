@@ -1,0 +1,3 @@
+[submodule "LATEX"]
+	path = LATEX
+	url = https://gitlab.umich.edu/csem_software/LATEX.git
